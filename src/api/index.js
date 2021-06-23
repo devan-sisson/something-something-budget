@@ -1,5 +1,7 @@
-const api = (domain) => {
+import budget from "./budget";
 
-};
+const api = () => ({
+  budget   
+});
 
 export default api();
